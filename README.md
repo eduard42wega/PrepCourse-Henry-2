@@ -1,2 +1,1 @@
-# PrepCourse-Henry-2
-REPOSITORIO PRUEBA #2
+prueba como crear un repositorio y clonarlo al pc
